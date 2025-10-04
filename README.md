@@ -11,5 +11,6 @@ booking status:
 <img width="1871" height="882" alt="image" src="https://github.com/user-attachments/assets/724bf880-80f3-402f-bc0a-193645ffc7f0" />
 
 detailed info
-![Uploading image.png…]()
+<img width="1902" height="902" alt="image" src="https://github.com/user-attachments/assets/34b7f75c-d62d-48d5-8f5d-4fbd42bd3069" />
+
 
